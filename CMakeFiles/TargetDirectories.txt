@@ -1,3 +1,0 @@
-/home/mike/Source/chess-engine/CMakeFiles/engine.dir
-/home/mike/Source/chess-engine/CMakeFiles/edit_cache.dir
-/home/mike/Source/chess-engine/CMakeFiles/rebuild_cache.dir
